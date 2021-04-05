@@ -1,5 +1,5 @@
 # Discord-bot [Link](https://discord.com/developers/applications)
-
+# JavaScript
 ## Requirements
 
 ### Install nodejs
@@ -43,9 +43,19 @@
 ```env
   DISCORD_TOKEN=Your_Token
 ```
-  and put your code in the bot.js then:
+  After that put your code in the bot.js then:
   
 ```sh
   >> node bot.js
 ```
   
+# Python
+
+## Requirements
+
+### Install Packeges 
+
+```sh
+  pip3 install -U discord.py
+  pip3 install python-dotenv
+```
